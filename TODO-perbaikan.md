@@ -1,0 +1,10 @@
+- [ ] Perbaiki halaman top up diamond agar bisa membeli berulang-ulang
+  - [ ] Tambahkan link kembali ke topup setelah pembelian berhasil
+  - [ ] Pastikan user bisa memilih paket lagi tanpa logout
+- [ ] Hapus halaman kelola diamond
+  - [ ] Hapus menu Kelola Diamond dari sidebar
+  - [ ] Hapus route CRUD diamond kecuali topup
+  - [ ] Hapus method CRUD dari DiamondController kecuali topup
+  - [ ] Hapus view diamond kecuali topup.blade.php
+- [ ] Tambahkan button batal di halaman transaksi
+  - [ ] Tambahkan button batal di create_topup.blade.php yang redirect ke topup

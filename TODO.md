@@ -1,0 +1,4 @@
+- [x] Perbaiki tampilan form edit diamond agar posisi elemen tidak acak
+  - [x] Perbaiki styling gambar agar tidak mengganggu layout
+  - [x] Pastikan field form sejajar dan teratur
+  - [x] Tambahkan grid layout jika diperlukan

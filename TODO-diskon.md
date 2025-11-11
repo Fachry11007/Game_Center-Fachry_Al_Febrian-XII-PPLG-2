@@ -1,0 +1,6 @@
+- [x] Tambahkan field diskon ke sistem transaksi
+  - [x] Update migrasi database untuk kolom diskon
+  - [x] Update model Transaksi dengan fillable diskon
+  - [x] Update controller untuk validasi dan perhitungan diskon
+  - [x] Update views untuk input dan tampilan diskon
+  - [x] Migrasi database
